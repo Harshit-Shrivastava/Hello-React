@@ -50,7 +50,7 @@
 	var ReactDOM = __webpack_require__(158);
 	var Greeter = __webpack_require__(159);
 
-	var firstName = "Harshit";
+	var firstName = "Hero";
 	var customMessage = "This is the default message.";
 
 	ReactDOM.render(React.createElement(Greeter, { name: firstName, message: customMessage }), document.getElementById('app'));
